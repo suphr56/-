@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>[ชื่อคุณ] | Portfolio</title>
+   <title>พอรต์ | Portfolio</title>
     <meta name="description" content="Portfolio ของ [ชื่อคุณ] รวมผลงานด้าน Web / Design / Programming">
 
     
@@ -141,8 +141,8 @@
     </header>
 
     <section id="home" class="hero">
-        <h1>สวัสดี, ฉันคือ [ชื่อของคุณ]</h1>
-        <p>นักสร้างสรรค์ผลงานด้าน [ศิลปะ / เขียนโปรแกรม / งานเขียน]</p>
+        <h1>สวัสดี, ฉันชื่อ tan</h1>
+        <p>มือใหม่เขียนโค้ดโปรเเกรม</p>
         <button onclick="document.querySelector('#works').scrollIntoView({behavior: 'smooth'})">ดูผลงานของฉัน</button>
     </section>
 
@@ -227,7 +227,7 @@
 
 
 
-     <p>&copy; <span id="year"></span> [ชื่อของคุณ]. All rights reserved.</p>
+     <p>&copy; <span id="year"></span> [tan]. All rights reserved.</p>
 
 
     <script>
