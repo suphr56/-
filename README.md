@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <title>พอรต์ | Portfolio</title>
+   <title> Portfolio</title>
     <meta name="description" content="Portfolio ของ [ชื่อคุณ] รวมผลงานด้าน Web / Design / Programming">
 
     
